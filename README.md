@@ -15,7 +15,7 @@ Meu nome é Jander Eloi. Atualmente estou participando de projetos de desenvolve
 
 # Projetos 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jandereloi&repo=jandereloi.github.io&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jandereloi&repo=jandereloi.github.io&theme=merko)](https://jandereloi.github.io/)
 
 # Contato
 
