@@ -1,6 +1,6 @@
 # Olá. Seja bem-vindo!
 
-Meu nome é Jander Eloi. Atualmente estou participando de projetos de desenvolvendo frontend e de programação em Lua.
+Meu nome é Jander Eloi. Atualmente estou participando de projetos de desenvolvimento frontend e de programação em Lua.
  
  ##
 
@@ -15,7 +15,7 @@ Meu nome é Jander Eloi. Atualmente estou participando de projetos de desenvolve
 
 # Projetos 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jandereloi&repo=jandereloi.github.io&theme=merko)](https://jandereloi.github.io/portfolio/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jandereloi&repo=landing-page&theme=merko)](https://jandereloi.github.io/landing-page/)
 
 # Contato
 
