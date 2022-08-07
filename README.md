@@ -1,6 +1,6 @@
 # Olá. Seja bem-vindo!
 
-Meu nome é Jander Eloi. Atualmente estou participando de projetos de desenvolvimento frontend e de programação em Lua.
+Meu nome é Jander Eloi. Atualmente estou participando de projetos como desenvolvedor frontend e em programação Lua, para desenvolvimento de jogo e mobile.
  
  ##
 
