@@ -17,6 +17,8 @@ Meu nome é Jander Eloi. Atualmente estou participando de projetos como desenvol
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jandereloi&repo=landing-page&theme=merko)](https://jandereloi.github.io/landing-page/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jandereloi&repo=star-explorer&theme=merko)](https://github.com/jandereloi/star-explorer)
+
 # Contato
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" heigth="30">](https://www.linkedin.com/in/jandereloi)
